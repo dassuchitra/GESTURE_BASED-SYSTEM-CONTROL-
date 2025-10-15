@@ -1,6 +1,7 @@
 # GESTURE_BASED-SYSTEM-CONTROL
 ----------------------------------------------------------------------------------------------------------
 A gesture control allows interaction between humans and computers without physical contact. It recognizes hand movements using a camera and interprets them as commands. This system makes controlling applications more interactive and natural.
+-----------------------------------------------------------------------------------------------------------
 **Overview**
 -----------------------------------------------------------------------------------------------------------
 The system captures live video through a webcam and processes each frame using **MediaPipe Hands** to identify hand landmarks (like fingerprints and joints).
